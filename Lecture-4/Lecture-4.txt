@@ -1,0 +1,3 @@
+checkout -> safe command
+
+revert -> to revert back in the time of commits
