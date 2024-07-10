@@ -1,0 +1,11 @@
+git status 
+git add index.html
+git commit -m "initial commit" 
+git remote add origin https://github.com/username/username.git 
+git push -u origin main 
+
+git log 
+git commit
+git status
+
+  
