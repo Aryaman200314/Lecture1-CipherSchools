@@ -10,5 +10,9 @@ git log
 git commit
 git status
 
+
+git add .
+
+
 git log --online
 
