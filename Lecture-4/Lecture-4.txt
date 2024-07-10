@@ -1,3 +1,15 @@
 checkout -> safe command
 
 revert -> to revert back in the time of commits
+
+:wq to exit 
+
+git checkout
+
+to get back to current status 
+
+git checkout master
+
+master is the main branch
+
+git reset -> it will delete the whole history 
